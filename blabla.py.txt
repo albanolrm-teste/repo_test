@@ -15,5 +15,9 @@ wqdqwljdwioqjoqioejqwioje
 
 
 
+<<<<<<< Updated upstream
+eqwjeioqjeioqwoejoqwje
+>>>>>>> Stashed changes
+=======
 eqwjeioqjeioqwoejoqwje
 >>>>>>> Stashed changes
