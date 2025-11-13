@@ -3,6 +3,7 @@ print ("olá")
 22
 
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 lll55yututyu
 =======
@@ -21,3 +22,9 @@ eqwjeioqjeioqwoejoqwje
 =======
 eqwjeioqjeioqwoejoqwje
 >>>>>>> Stashed changes
+=======
+lll55yututyu
+
+
+gdfgdfg
+>>>>>>> 7c931ce3e2661b5e953a4c510fe851f36168d69a
