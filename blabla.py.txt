@@ -3,4 +3,17 @@ print ("olá")
 22
 
 
+<<<<<<< Updated upstream
 lll55yututyu
+=======
+lll55yututyu
+
+
+gdfgdfg
+
+wqdqwljdwioqjoqioejqwioje
+
+
+
+eqwjeioqjeioqwoejoqwje
+>>>>>>> Stashed changes
